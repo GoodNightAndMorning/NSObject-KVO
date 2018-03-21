@@ -5,7 +5,7 @@
   
  @param keyPath 监听的属性  
  @param completeHandler 回调  
- */
+ */  
 -(void)addObserverForKeyPath:(NSString *)keyPath complete:(CompleteHandler)completeHandler;  
   
 /**  
